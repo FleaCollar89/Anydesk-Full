@@ -1,0 +1,23 @@
+{
+  "repo": "anydesk-full",
+  "product": "Anydesk Full",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "network",
+  "topics": [
+    "anydesk-app",
+    "remote-desktop-client",
+    "low-latency-remote",
+    "unattended-desktop",
+    "support-sessions",
+    "anydesk-setup-failed-fix",
+    "how-to-install-anydesk",
+    "anydesk-windows",
+    "anydesk-desktop-2026",
+    "anydesk-desktop-package"
+  ],
+  "site": "toolix.me"
+}
